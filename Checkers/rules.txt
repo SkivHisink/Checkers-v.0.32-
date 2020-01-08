@@ -1,0 +1,22 @@
+Rules for game:
+1)Game is playing on the 8x8 desk +
+2)Chekers at the start of the game stay on firts third lines on diffirent sides +
+3)You must always attack if you have opportunity
+4)Checkers can move only forward 
+5)Chechers can attack behind chekeckers
+6)Queen can move on line which it stayed 
+7)Checker become Queen if it came to the enemy edge desk side
+8)If Checker attack and after that it become Queen so it can attack again this turn
+9)If you make additional turn after murder to do it again you can make turn by another checker, but that which can attack will be killed
+!!!!!!!!!!!!!!!!!!!!!
+!@@|0|1|2|3|4|5|6|7|!
+!@!!!!!!!!!!!!!!!!!!!
+!0!|0|#|0|#|0|#|0|#|!
+!1!|#|0|#|0|#|0|#|0|!
+!2!|0|#|0|#|0|#|0|#|!
+!3!|#|0|#|0|#|0|#|0|!
+!4!|0|#|0|#|0|#|0|#|!
+!5!|#|0|#|0|#|0|#|0|!
+!6!|0|#|0|#|0|#|0|#|!
+!7!|#|0|#|0|#|0|#|0|!
+!!!!!!!!!!!!!!!!!!!!!

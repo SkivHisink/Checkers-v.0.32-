@@ -1,0 +1,20 @@
+[[[Project "Checkers"]]]
+What I think to do:
+1) 3 game mods :
+	a) Player vs Player(local)
+	b) Player vs AI
+	c) AI vs AI
+2) Interface: Console(Conlib.h)
+3) 2 difficults easy(maybe it will be a random turns), hard(AI), AI with educaion)
+4) Time & Numbers of turns will be saved in file and sorted by rating or name
+-------------------------------------------
+Price: 0$
+-------------------------------------------
+Time to complete project: nearest 50-70 hours
+-------------------------------------------
+Number of programmist: 1
+-------------------------------------------
+Cool Features:
+1) You can choose color of field and checker
+2) Programm use minimum memory
+3) Ai have 2-3 difficults

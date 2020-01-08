@@ -1,0 +1,31 @@
+﻿  Checkers_GM.c
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(136,28): warning C4474: 'wprintf' : too many arguments passed for format string
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(136,28): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(138,29): warning C4474: 'wprintf' : too many arguments passed for format string
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(138,29): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(171,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(179,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(187,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(199,8): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(200,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(209,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(218,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(249,17): warning C4013: 'ai_rebalancing' undefined; assuming extern returning int
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(256,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(266,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(275,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(279,10): warning C4013: 'ai_turn' undefined; assuming extern returning int
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(290,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(300,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(309,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(242,6): warning C4101: 'turns_ai_1': unreferenced local variable
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(327,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(332,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(335,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(345,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(350,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(353,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(147): warning C4716: 'print_who_win': must return a value
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(224): warning C4715: 'player_vs_player': not all control paths return a value
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(315): warning C4715: 'player_vs_ai': not all control paths return a value
+  Checkers.vcxproj -> C:\Users\User\Desktop\checkers2.0\Checkers\Debug\Checkers.exe
