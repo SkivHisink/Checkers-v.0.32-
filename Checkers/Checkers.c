@@ -134,6 +134,6 @@ char** init_game(int GameMode, bool Player1Color, int p1ChClr, int p2ChClr)
 	free(field);
 	free(ai_turns);
 	free(ai_turns_2);
-	assert(!_CrtDumpMemoryLeaks());
+	//assert(!_CrtDumpMemoryLeaks());//just for tests
 	return field;
 }
