@@ -1,0 +1,120 @@
+﻿  Checkers_AI.c
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(12,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(13,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : see declaration of 'strerror'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(19,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(20,1): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(182): message : see declaration of 'strerror'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(35,18): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(43,16): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(35,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(41,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(43,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(160,19): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(191,18): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(232,92): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(232,92): warning C4024: 'make_turn': different types for formal and actual parameter 8
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(417,20): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(156,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(160,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(165,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(186,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(191,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(192,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(413,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(417,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(423,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(493,21): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(523,19): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(559,21): warning C4477: 'fscanf' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(489,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(493,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(498,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(518,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(523,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(524,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(555,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(559,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(574,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_AI.c(613,1): warning C4996: 'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+  Checkers_GM.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message : see declaration of 'fcloseall'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(136,28): warning C4474: 'wprintf' : too many arguments passed for format string
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(136,28): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(138,29): warning C4474: 'wprintf' : too many arguments passed for format string
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(138,29): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(171,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(179,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(187,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(199,8): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(200,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(209,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(218,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(249,17): warning C4013: 'ai_rebalancing' undefined; assuming extern returning int
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(256,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(266,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(275,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(279,10): warning C4013: 'ai_turn' undefined; assuming extern returning int
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(290,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(300,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(309,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(242,6): warning C4101: 'turns_ai_1': unreferenced local variable
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(327,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(332,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(335,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(345,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(350,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+  Checkers.c
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(353,15): warning C4047: 'return': 'char **' differs in levels of indirection from 'char [4]'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers.c(77,12): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers.c(104,26): warning C4113: 'char **(__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *,int)' differs in parameter lists from 'char (__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *)'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers.c(104,26): warning C4047: '=': 'char (__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *)' differs in levels of indirection from 'char **(__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *,int)'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers.c(107,22): warning C4113: 'char **(__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *,int)' differs in parameter lists from 'char (__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *)'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers.c(107,22): warning C4047: '=': 'char (__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *)' differs in levels of indirection from 'char **(__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *,int)'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers.c(110,18): warning C4113: 'char **(__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *,int)' differs in parameter lists from 'char (__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *)'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers.c(110,18): warning C4047: '=': 'char (__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *)' differs in levels of indirection from 'char **(__cdecl *)(char **,playerinf *,playerinf *,int,int,int,int *,int *,int)'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers.c(124,93): warning C4020: 'game': too many actual parameters
+  Checkers_source.c
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers.c(124,100): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_source.c(13,14): warning C4133: 'function': incompatible types - from 'char [2]' to 'const wchar_t *const '
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_source.c(24,15): warning C4133: 'function': incompatible types - from 'char [2]' to 'const wchar_t *const '
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_source.c(627,10): warning C4013: 'getch' undefined; assuming extern returning int
+  Conlib.c
+  GameMenu.c
+  Menu.c
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_source.c(695,13): warning C4013: 'ai_turn' undefined; assuming extern returning int
+  Records.c
+  Source.c
+C:\Users\User\Desktop\checkers2.0\Checkers\Menu.c(185,8): warning C4013: 'system' undefined; assuming extern returning int
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(147): warning C4716: 'print_who_win': must return a value
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(224): warning C4715: 'player_vs_player': not all control paths return a value
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_GM.c(315): warning C4715: 'player_vs_ai': not all control paths return a value
+C:\Users\User\Desktop\checkers2.0\Checkers\Checkers_source.c(901): warning C4715: 'make_turn': not all control paths return a value
+  All 46 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Checkers.vcxproj -> C:\Users\User\Desktop\checkers2.0\Checkers\Release\Checkers.exe
