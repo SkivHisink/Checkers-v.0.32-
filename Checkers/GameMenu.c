@@ -163,7 +163,7 @@ void GameMenu(int maxX, int maxY, int* Score, char* Name, double* Time) {
 			//wprintf(L"Your score:%d", Score);
 			GotoXY(maxX / 2 - maxX / 20, maxY / 4 + 3);
 			//wprintf(L"Your time:%lf", Time);
-			getchar();
+			//getchar();
 			if (Y_Pos == maxY / 4 + 2) /*Records*/ {
 				flag = 3;
 			}
